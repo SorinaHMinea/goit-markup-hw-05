@@ -617,7 +617,7 @@ h5 {
 
 .text-box {
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   background: rgba(47, 48, 58, 0.8);
   width: 370px;
   height: 70px;
